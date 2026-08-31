@@ -1,11 +1,10 @@
 img {
-    width: 500px;
+    width: 200px;
 }
-
 body {
     text-align: center;
-    background-color: rgb(0, 0, 0);
-    font-family: 'Arial';
-    color:rgb(0, 217, 255)
-
+    font-family: sans-serif;
+    color: #3daf6d;
 }
+
+body {background-color:rgb(175, 19, 45)}
